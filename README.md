@@ -1,12 +1,12 @@
-## Visual Computing Slides -- Introduction
+## Object Oriented Programming Slides -- Structured Programming Overview
 
-Part of the *Visual Computing* course given at [National University of Colombia](http://www.disi.unal.edu.co/) by [Jean Pierre Charalambos](http://otrolado.info) and [Andres Colubri](http://andrescolubri.net/).
+Part of the *Object Oriented Programming* course given at [National University of Colombia](http://www.disi.unal.edu.co/).
 
 Powered by [reveal](https://github.com/hakimel/reveal.js).
 
 Made possible thanks to... 
 
-<!--- a long list of students and links to their pages. To come ;) -->
+<!--- a long list of community members and links to their pages. To come ;) -->
 
 ## Installation
 
@@ -61,7 +61,7 @@ External markdown and speaker notes, require that presentations run from a local
 
  ```sh
  $ git remote add reveal.js https://github.com/hakimel/reveal.js.git
- $ git pull reveal.js master
+ $ git pull reveal.js master -Xours
  ```
 -->
 
