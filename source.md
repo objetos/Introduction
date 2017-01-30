@@ -19,7 +19,7 @@
 
 H:
 
-# Visual Computing Introduction
+# Object Oriented Programming Introduction
 
 Jean Pierre Charalambos
 
@@ -49,61 +49,42 @@ H:
 
 ## Goal: scheme
 
-<figure>
-    <img height='400' src='fig/pipeline.png' />
-    <figcaption>Modern Graphics Pipeline</figcaption>
-</figure>
+> Learn what OOP is
 
 V:
 
 ## Goal: low-level
 
-> Know the fundamentals
+> Know the OOP fundamentals
 
 V:
 
 ## Goal: high-level
 
-> Envisage & handle the applications
+> Know when to apply the OOP paradigm to solve problems
 
 H:
 
 ## Course outline: Part 1 Preleminaries
 
-1. Lang
+1. Free software
 2. git
-3. Cognitive aspects
 4. Math
-5. Rasterization
-6. Imaging
-7. Representation
+5. Structure programming
 
 V:
 
-## Course outline: Part 2 Shaders
+## Course outline: Part 2 Objects
 
-1. Shaders in Processing
-2. Texturing
-3. Lighting
-4. Image filters
-
-V:
-
-## Course outline: Part 3 HCI
-
-1. Frames
-2. Shapes
-3. Picking
-4. Behaviors
-5. Input
-6. Eye
-7. Animation
+1. Objects
+2. Method overloading (static binding)
+2. Polymorphism (dynamic binding)
 
 V:
 
-## Course outline: Part 4 Advanced Topics
+## Course outline: Part 3 Project
 
-pending
+Pending
 
 H:
 
@@ -120,8 +101,7 @@ H:
 
 ## References
 
-1. [Online course](https://github.com/VisualComputing)
-2. [Math primer for graphics and game development](https://tfetimes.com/wp-content/uploads/2015/04/F.Dunn-I.Parberry-3D-Math-Primer-for-Graphics-and-Game-Development.pdf)
-3. Papers
-4. [songho](http://www.songho.ca/opengl/)
-5. [scratchapixel](https://www.scratchapixel.com/)
+per presentation basis
+
+1. [Online course](https://github.com/objetos)
+2. [Processing](https://processing.org)
