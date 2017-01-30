@@ -1,18 +1,17 @@
-## Visual Computing Slides -- Introduction
+## Object Oriented Programming Slides -- Introduction
 
-Part of the *Visual Computing* course given at [National University of Colombia](http://www.disi.unal.edu.co/) by [Jean Pierre Charalambos](http://otrolado.info) and [Andres Colubri](http://codeanticode.wordpress.com/).
+Part of the *Object Oriented Programming* course given at [National University of Colombia](http://www.disi.unal.edu.co/).
 
 Powered by [reveal](https://github.com/hakimel/reveal.js).
 
 Made possible thanks to... 
 
-<!--- a long list of students and links to their pages. To come ;) -->
+<!--- a long list of community members and links to their pages. To come ;) -->
 
-## Setup
+## Installation
 
  ```sh
  $ git clone https://github.com/VisualComputing/Introduction.git
+ $ cd objects
  $ git checkout gh-pages
  ```
- 
-Then have a look at the README.md of the gh-pages branch.
