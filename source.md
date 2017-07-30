@@ -84,9 +84,26 @@ V:
 
 ## Course outline: Part 3 Project
 
-Pending
+to be defined soon...
 
 H:
+
+## Methodology & grading
+### Active (collaborative) learning
+               
+    passive                   workshops             active (collaborative)
+       |-------------------------*-------------------------|
+<!-- .element: class="fragment" data-fragment-index="1"-->
+            
+    unaided        Zone of Proximal Development       with guidance
+       |-----------------------> * <-----------------------|
+<!-- .element: class="fragment" data-fragment-index="2"-->
+                
+N:
+
+Zona de desarrollo próximo
+               
+V:
 
 ## Methodology & grading
 
@@ -94,7 +111,6 @@ H:
 * Workshops -- git templates
     1. minimal
     2. encouraging
-    3. optional
 * Final project
 
 H:
