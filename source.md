@@ -111,7 +111,7 @@ V:
                 
 N:
 
-Zona de desarrollo próximo
+del inglés, Zona de desarrollo próximo
                
 V:
 
