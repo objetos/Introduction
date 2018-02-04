@@ -82,9 +82,19 @@ V:
 
 V:
 
+## Course outline: Part 3 Extras
+
+1. Intro to data structures
+2. Strings
+3. Data
+<!--- design: https://processing.org/tutorials/anatomy/ --->
+5. Utilities: libraries, gui editors, ...
+
+V:
+
 ## Course outline: Part 3 Project
 
-to be defined soon...
+to be defined (the sooner the better)...
 
 H:
 
@@ -101,13 +111,8 @@ V:
 ## Methodology & grading
 ### Active (collaborative) learning
                
-    passive                   workshops             active (collaborative)
-       |-------------------------*-------------------------|
-<!-- .element: class="fragment" data-fragment-index="1"-->
-            
     unaided        Zone of Proximal Development       with guidance
        |-----------------------> * <-----------------------|
-<!-- .element: class="fragment" data-fragment-index="2"-->
                 
 N:
 
