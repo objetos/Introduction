@@ -68,9 +68,7 @@ H:
 ## Course outline: Part 1 Preleminaries
 
 1. Free software
-2. git
-4. Math
-5. Structure programming
+2. Structure programming
 
 V:
 
@@ -89,12 +87,6 @@ V:
 3. Data
 <!--- design: https://processing.org/tutorials/anatomy/ --->
 5. Utilities: libraries, gui editors, ...
-
-V:
-
-## Course outline: Part 3 Project
-
-to be defined (the sooner the better)...
 
 H:
 
@@ -126,7 +118,6 @@ V:
 * Workshops -- git templates
     1. minimal
     2. encouraging
-* Final project
 
 H:
 
