@@ -114,10 +114,11 @@ V:
 
 ## Methodology & grading
 
-* Quizzes & presentations
+* Presentations
 * Workshops -- git templates
     1. minimal
     2. encouraging
+* Project
 
 H:
 
