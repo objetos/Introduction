@@ -27,7 +27,7 @@ H:
 
 # Outline
 
-1. About me <!-- .element: class="fragment" data-fragment-index="1"-->
+1. About <!-- .element: class="fragment" data-fragment-index="1"-->
 2. Goal <!-- .element: class="fragment" data-fragment-index="2"-->
 3. Course outline <!-- .element: class="fragment" data-fragment-index="3"-->
 4. Methodology <!-- .element: class="fragment" data-fragment-index="4"-->
@@ -37,6 +37,7 @@ H:
 
 # About me
 
+Object Oriented Programming
 Jean Pierre Charalambos
 <p>
 e-mail: jpcharalambosh@unal.edu.co
