@@ -35,9 +35,10 @@ H:
 
 H:
 
-# About me
+# About
 
 Object Oriented Programming
+<p>
 Jean Pierre Charalambos
 <p>
 e-mail: jpcharalambosh@unal.edu.co
