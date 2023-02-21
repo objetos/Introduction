@@ -21,7 +21,8 @@ H:
 
 # Object Oriented Programming Introduction
 
-Jean Pierre Charalambos
+Jean Pierre Charalambos  
+Universidad Nacional de Colombia
 
 H:
 
